@@ -3,12 +3,20 @@
     {
       "username": "shanto",
       "password": "1",
-      "expiry": "2025-12-31"
+      "expiry": "2055-12-31",
+      "ban": false,
+      "hwid": "",
+      "on1Device": true,
+      "lastLogin": ""
     },
     {
       "username": "admin",
       "password": "admin123",
-      "expiry": "2026-01-01"
+      "expiry": "2026-01-01",
+      "ban": false,
+      "hwid": "",
+      "on1Device": false,
+      "lastLogin": ""
     }
   ]
 }
