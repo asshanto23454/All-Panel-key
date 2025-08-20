@@ -26,6 +26,24 @@
       "hwid": "faaf6565-33f8-470c-927b-54b2a8f088c0",
       "on1Device": false,
       "lastLogin": ""
-    }
+    },
+    {
+      "username": "sajib",
+      "password": "1",
+      "expiry": "2055-01-01",
+      "ban": false,
+      "hwid": "4bdd8819-a1aa-4c36-b937-2a8c91618314",
+      "on1Device": false,
+      "lastLogin": ""
+    },
+    {
+      "username": "jahid",
+      "password": "1",
+      "expiry": "2055-01-01",
+      "ban": false,
+      "hwid": "ef3c8499-462a-400c-8e34-990bee86f29f",
+      "on1Device": false,
+      "lastLogin": ""
+    },
   ]
 }
