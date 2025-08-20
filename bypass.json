@@ -10,11 +10,11 @@
       "lastLogin": ""
     },
     {
-      "username": "admin",
-      "password": "admin123",
+      "username": "anik",
+      "password": "1",
       "expiry": "2026-01-01",
       "ban": false,
-      "hwid": "",
+      "hwid": "88C0EFB973F75BE6A07A95C5D27AD543",
       "on1Device": false,
       "lastLogin": ""
     }
