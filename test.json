@@ -6,6 +6,18 @@
       "expiry": "2025-12-31",
       "banned": false
     },
+    {
+      "username": "1",
+      "hwid": "",
+      "expiry": "2025-12-31",
+      "banned": false
+    },
+    {
+      "username": "2",
+      "hwid": "",
+      "expiry": "2025-12-31",
+      "banned": false
+    }
   ]
 }
 
