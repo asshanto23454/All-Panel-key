@@ -8,9 +8,9 @@
     },
     {
       "username": "1",
-      "hwid": "",
+      "hwid": "fc10d595-a846-4b47-b899-c77c1e1c3dfe",
       "expiry": "2025-12-31",
-      "banned": false
+      "banned": true
     },
     {
       "username": "2",
