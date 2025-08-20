@@ -17,6 +17,15 @@
       "hwid": "88C0EFB973F75BE6A07A95C5D27AD543",
       "on1Device": false,
       "lastLogin": ""
+    },
+    {
+      "username": "shihab",
+      "password": "1",
+      "expiry": "2055-01-01",
+      "ban": false,
+      "hwid": "faaf6565-33f8-470c-927b-54b2a8f088c0",
+      "on1Device": false,
+      "lastLogin": ""
     }
   ]
 }
