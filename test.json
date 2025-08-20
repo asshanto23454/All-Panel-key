@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "shanto",
+      "hwid": "ABC123-XYZ789"
+    },
+    {
+      "username": "test",
+      "hwid": "DEF456-PQR111"
+    }
+  ]
+}
