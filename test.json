@@ -4,25 +4,25 @@
       "username": "shanto",
       "hwid": "fc10d595-a846-4b47-b899-c77c1e1c3dfe",
       "expiry": "2025-12-31",
-      "banned": false
+      "banned": "false"
     },
     {
       "username": "1",
       "hwid": "fc10d595-a846-4b47-b899-c77c1e1c3dfe",
       "expiry": "2025-12-31",
-      "banned": true
+      "banned": "true"
     },
     {
       "username": "2",
       "hwid": "",
       "expiry": "2025-12-31",
-      "banned": false
+      "banned": "false"
     },
     {
       "username": "mahin",
       "hwid": "fc10d595-a846-4b47-b899-c77c1e1c3dfe",
       "expiry": "2025-12-31",
-      "banned": false
+      "banned": "false"
     },
   ]
 }
