@@ -6,7 +6,7 @@
       "expiry": "2055-12-31",
       "ban": false,
       "hwid": "2dce4fa5-d036-413b-aea2-a522108232e4",
-      "on1Device": true,
+      "on1Device": false,
       "lastLogin": ""
     },
     {
