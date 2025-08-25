@@ -11,18 +11,6 @@
       "hwid": "a316ed15-4e9c-4438-b5c6-03d5488b6767",
       "expiry": "2025-08-26",
       "banned": false
-    },
-    {
-      "username": "jahid",
-      "hwid": "72c613b1-8f60-476f-bab6-112b846634fb",
-      "expiry": "2055-12-31",
-      "banned": false
-    },
-    {
-      "username": "anin",
-      "hwid": "01588ed4-cf87-461a-a929-dcb32f683ecf",
-      "expiry": "2055-12-31",
-      "banned": false
-    }
+    }   
   ]
 }
