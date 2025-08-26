@@ -23,12 +23,6 @@
       "hwid": "23d08511-d4b4-4612-897f-aba66a5b7365",
       "expiry": "2055-12-31",
       "banned": false
-    },
-   {
-      "username": "sini",
-      "hwid": "2305409b-1ae8-43f1-a6f7-9c08924b82da",
-      "expiry": "2055-12-31",
-      "banned": false
-    }
+    }  
   ]
 }
