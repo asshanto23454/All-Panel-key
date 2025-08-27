@@ -5,7 +5,7 @@
       "hwid": "2dce4fa5-d036-413b-aea2-a522108232e4",
       "expiry": "2055-12-31",
       "banned": false
-    },  
+    },
    {
       "username": "kaiyum",
       "hwid": "6858fa65-5cea-46b1-8f1e-fea8da566c93",
@@ -15,6 +15,12 @@
    {
       "username": "musad",
       "hwid": "493de5b3-1c9c-4e56-93b2-286ef0fab344",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+   {
+      "username": "anin",
+      "hwid": "01588ed4-cf87-461a-a929-dcb32f683ecf",
       "expiry": "2055-12-31",
       "banned": false
     },
