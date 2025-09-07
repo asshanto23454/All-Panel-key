@@ -51,7 +51,7 @@
      {
       "username": "turjo",
       "hwid": "a3afa8e0-64d9-4dae-a202-e2ed7c3226ef",
-      "expiry": "2055-01-01",
+      "expiry": "2029-01-01",
       "ban": false,  
     },
      {
@@ -65,12 +65,6 @@
       "hwid": "936f5423-b1ab-43d2-8ad6-81558d5a12e0",
       "expiry": "2055-01-01",
       "ban": false,  
-    },
-     {
-      "username": "",
-      "hwid": "",
-      "expiry": "2055-01-01",
-      "ban": false,  
-    }
+    }     
   ]
 }
