@@ -65,6 +65,12 @@
       "hwid": "936f5423-b1ab-43d2-8ad6-81558d5a12e0",
       "expiry": "2055-01-01",
       "ban": false,  
-    }     
+    },
+    {
+      "username": "1",
+      "hwid": "2dce4fa5-d036-413b-aea2-a522108232e4",
+      "expiry": "2055-12-31",
+      "banned": false
+    }
   ]
 }
