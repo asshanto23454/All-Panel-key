@@ -1,3 +1,76 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "shanto",
+      "hwid": "2dce4fa5-d036-413b-aea2-a522108232e4",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+   {
+      "username": "anik",
+      "hwid": "0cce1e9c-de98-465e-81be-ff6f55e8a6cb",
+      "expiry": "2026-8-26",
+      "banned": false
+    },
+   {
+      "username": "musad",
+      "hwid": "493de5b3-1c9c-4e56-93b2-286ef0fab344",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+   {
+      "username": "anin",
+      "hwid": "01588ed4-cf87-461a-a929-dcb32f683ecf",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+  {
+      "username": "nihad",
+      "hwid": "a316ed15-4e9c-4438-b5c6-03d5488b6767",
+      "expiry": "2025-09-06",
+      "banned": false
+    },
+   {
+      "username": "shihab",
+      "hwid": "faaf6565-33f8-470c-927b-54b2a8f088c0",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+     {
+      "username": "sajib",
+      "hwid": "89457f7c-dec5-4feb-b496-c788e8f39975",
+      "expiry": "2055-01-01",
+      "ban": false,  
+    },
+     {
+      "username": "jahid",
+      "hwid": "72c613b1-8f60-476f-bab6-112b846634fb",
+      "expiry": "2055-01-01",
+      "ban": false,  
+    },
+     {
+      "username": "turjo",
+      "hwid": "a3afa8e0-64d9-4dae-a202-e2ed7c3226ef",
+      "expiry": "2055-01-01",
+      "ban": false,  
+    },
+     {
+      "username": "maruf",
+      "hwid": "4c72a561-6da7-444b-b7a7-f310ee678aef",
+      "expiry": "2055-01-01",
+      "ban": false,  
+    },
+     {
+      "username": "sagor",
+      "hwid": "936f5423-b1ab-43d2-8ad6-81558d5a12e0",
+      "expiry": "2055-01-01",
+      "ban": false,  
+    },
+     {
+      "username": "",
+      "hwid": "",
+      "expiry": "2055-01-01",
+      "ban": false,  
+    }
+  ]
 }
