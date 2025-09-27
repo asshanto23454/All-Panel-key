@@ -1,3 +1,17 @@
 {
-  "d5d447d5-8379-44ae-8de7-86ad6cbeda0c"
+  "users": [
+    {
+      "username": "shanto",
+      "hwid": "eaec2fe2-4ef3-4668-b1f7-ee6f6215a53c",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+     {
+      "username": "e27298bc-0bf2-4e63-b620-0f965eb95bd4",
+      "hwid": "eaec2fe2-4ef3-4668-b1f7-ee6f6215a53c",
+      "expiry": "2055-12-31",
+      "banned": false
+    },
+   
+  ]
 }
