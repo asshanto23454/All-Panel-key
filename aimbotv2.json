@@ -96,7 +96,14 @@
       "hwid": "bb5d46d7-6765-473d-95f2-bb7e7b2d2129",
       "expiry": "2025-10-25",
       "banned": false
+    },
+    {
+      "username": "sini",
+      "hwid": "e5b14dd1-5c15-4a9f-9344-6e176faffe37",
+      "expiry": "2025-10-25",
+      "banned": false
     }
+    
   ]
 }
 
