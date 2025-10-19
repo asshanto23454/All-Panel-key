@@ -102,7 +102,13 @@
       "hwid": "6858fa65-5cea-46b1-8f1e-fea8da566c93",
       "expiry": "2026-8-26",
       "banned": false
-    }
+    },
+    {
+       "username": "mahin",
+      "hwid": "a63145c2-e727-4974-9ae7-c63092847650",
+      "expiry": "2026-8-26",
+      "banned": false
+    },
     
   ]
 }
