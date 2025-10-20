@@ -2,33 +2,28 @@
   "users": [
     {
       "username": "shanto",
-      "hwid": "eaec2fe2-4ef3-4668-b1f7-ee6f6215a53c",
-      "expiry": "2055-12-31",
-      "banned": false
+      "hwid": "efd261e4-d452-4ef7-b321-35ad885a13ef",
+      "expiry": "2055-12-31"
     },
    {
       "username": "musad",
       "hwid": "493de5b3-1c9c-4e56-93b2-286ef0fab344",
-      "expiry": "2055-12-31",
-      "banned": false
+      "expiry": "2055-12-31"
     },
   {
       "username": "sajib",
       "hwid": "89457f7c-dec5-4feb-b496-c788e8f39975",
-      "expiry": "2055-12-31",
-      "banned": false
+      "expiry": "2055-12-31"
     },
   {
       "username": "nihad",
       "hwid": "a316ed15-4e9c-4438-b5c6-03d5488b6767",
-      "expiry": "2055-12-31",
-      "banned": false
+      "expiry": "2055-12-31"
     },
    {
       "username": "d",
       "hwid": "23d08511-d4b4-4612-897f-aba66a5b7365",
-      "expiry": "2055-12-31",
-      "banned": false
+      "expiry": "2055-12-31"
     }  
   ]
 }
